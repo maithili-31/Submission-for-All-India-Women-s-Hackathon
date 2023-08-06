@@ -29,6 +29,12 @@ Emotional Insights: Gain insights into your emotions based on your facial expres
 4) User Interface: Python
 5) Backend: Python
 
+## How to use it?
+1) This application can be used by executing the run.py file which then opens up a GUI asking the user to enter the name of the artist.
+2) This will then collect required albums from the API and then will open up your WebCam .
+3) Just click 'q' button on the keyboard to stop capturing the image and the GUI will lead you through.
+4) Clicking on print button will make the recommendations ready for you.
+
 
 ## Feel the music that matches your emotions with the Music Recommendation System from Facial Expressions. Let the power of your expressions guide your playlist!
 
